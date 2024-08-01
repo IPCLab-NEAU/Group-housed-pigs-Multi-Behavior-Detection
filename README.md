@@ -21,7 +21,7 @@ The experimental results are as below.
 ## 3️⃣ Citation
 If you find this resource helpful, please use the following BibTeX entry.
 ```
-@article{Li2024109286,
+@article{
     author    = {Ran Li and Baisheng Dai and Yuhang Hu and Xin Dai and Junlong Fang and Yanling Yin and Honggui Liu and Weizheng Shen},
     title     = {Multi-behavior detection of group-housed pigs based on YOLOX and SCTS-SlowFast},
     journal   = {Computers and Electronics in Agriculture},
