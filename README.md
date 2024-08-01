@@ -16,7 +16,7 @@ The experimental results are as below.
 | -------------------- | ----- | ------ | ------ | ------ | ------ |
 | Ours                 | 80.05 |  99.10 |  90.18 |  75.15 | 55.76  |
 
-![image](https://github.com/user-attachments/assets/afe1b668-8432-490f-9a03-4315f84a246d)
+![image](https://github.com/user-attachments/assets/77a77ad0-4297-47cf-809e-16501f29712a)
 
 ## 3️⃣ Citation
 If you find this resource helpful, please use the following BibTeX entry.
