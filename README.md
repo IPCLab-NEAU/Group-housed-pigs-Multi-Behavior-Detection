@@ -12,22 +12,23 @@ Extraction code：**please email at bsdai@neau.edu.cn**
 ## 2️⃣ Results
 The experimental results are as below.
 
-| Method \ mAP@IoU (%) | 0.1  | 0.2  | 0.3  | 0.4  | 0.5  | AVG  |
-| -------------------- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Ours                 | 68.0 | 65.8 | 58.8 | 49.3 | 35.7 | 55.5 |
+| Method \ mAP@IoU (%) |  mAP  | EI(AP) | DI(AP) | ST(AP) | WK(AP) |
+| -------------------- | ----- | ------ | ------ | ------ | ------ |
+| Ours                 | 80.05 |  99.10 |  90.18 |  75.15 | 55.76  |
 
+![image](https://github.com/user-attachments/assets/afe1b668-8432-490f-9a03-4315f84a246d)
 
 ## 3️⃣ Citation
 If you find this resource helpful, please use the following BibTeX entry.
 ```
-@article{YAN2024109243,
-    author    = {Kai Yan and Baisheng Dai and Honggui Liu and Yanling Yin and Xiao Li and Renbiao Wu and Weizheng Shen},
-    title     = {Deep neural network with adaptive dual-modality fusion for temporal aggressive behavior detection of group-housed pigs},
+@article{Li2024109286,
+    author    = {Ran Li and Baisheng Dai and Yuhang Hu and Xin Dai and Junlong Fang and Yanling Yin and Honggui Liu and Weizheng Shen},
+    title     = {Multi-behavior detection of group-housed pigs based on YOLOX and SCTS-SlowFast},
     journal   = {Computers and Electronics in Agriculture},
-    volume    = {224},
-    pages     = {109243},
+    volume    = {225},
+    pages     = {109286},
     year      = {2024},
     issn      = {0168-1699},
-    doi       = {https://doi.org/10.1016/j.compag.2024.109243}
+    doi       = {https://doi.org/10.1016/j.compag.2024.109286}
 }
 ```
